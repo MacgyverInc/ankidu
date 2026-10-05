@@ -220,7 +220,7 @@ Content-Type: application/json
 
 Ænkidu keys use an AnkiConnect-friendly `keyId.secret` bearer format, so you paste one string into any AnkiConnect client (Yomitan, etc.) and you're done. You can create and manage keys two ways:
 
-### Option 1 - The `ankidu` CLI
+### Option 1 - The `ankidu` CLI (coming soon)
 
 The CLI logs you in securely (your password is exchanged for a short-lived token - the key itself is shown **only once**, and only its hash is ever stored server-side):
 
