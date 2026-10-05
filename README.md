@@ -2,7 +2,7 @@
 
 <sub>**Ankidu.de** - web: [ankidu.de](https://ankidu.de)</sub>
 
-![A picture of the Ankidu app - a sidecar like app with settings on the left and content on the right showing Anki collection data](images/app_screenshot.png)
+![A picture of the Ankidu app - a sidecar like app with settings on the left and content on the right showing Anki collection data](app_screenshot.png)
 
 ## About
 
